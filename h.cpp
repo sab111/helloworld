@@ -1,1 +1,3 @@
-cout << "HEllo";
+int main(){
+  cout << "HEllo";
+}
